@@ -110,9 +110,6 @@ void Menu::moverCursor(int boolean){
             }else if(this->posCursor == 2){
                 setPosMover(32,14,boolean);
                 this->posCursor = 1;
-            }else if(this->posCursor == 3){
-                setPosMover(32,16,boolean);
-                this->posCursor = 2;
             }
         }break;
         case 1:{
@@ -122,9 +119,6 @@ void Menu::moverCursor(int boolean){
             }else if(this->posCursor == 1){
                 setPosMover(32,16,boolean);
                 this->posCursor = 2;
-            }else if(this->posCursor == 2){
-                setPosMover(32,18,boolean);
-                this->posCursor = 3;
             }
         }break;
     }
