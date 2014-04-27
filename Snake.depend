@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1397091498 source:c:\users\public\documents\maratona\snake\main.cpp
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"ConioSub.cpp"
+	"Util.cpp"
+	"Cobra.cpp"
+	"Regras.cpp"
+	"Tela.cpp"
+	"File.cpp"
+	"Ranking.cpp"
+	"Sobre.cpp"
+	"Menu.cpp"
+
+1395677553 source:c:\users\public\documents\maratona\snake\menu.cpp
+	<stdio.h>
+
+1397145050 c:\users\public\documents\maratona\snake\menu.cpp
+
+1395677538 c:\users\public\documents\maratona\snake\coniosub.h
+
+1395789230 c:\users\public\documents\maratona\snake\coniosub.cpp
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+
+1396884336 c:\users\public\documents\maratona\snake\cobra.cpp
+
+1397145035 c:\users\public\documents\maratona\snake\tela.cpp
+
+1397002520 c:\users\public\documents\maratona\snake\util.cpp
+
+1397067030 c:\users\public\documents\maratona\snake\regras.cpp
+
+1397091740 c:\users\public\documents\maratona\snake\sobre.cpp
+
+1397145519 c:\users\public\documents\maratona\snake\file.cpp
+
+1397144744 c:\users\public\documents\maratona\snake\ranking.cpp
+
+1398586878 source:c:\users\kelvin\documents\desenvolvimento\c++\snake\main.cpp
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"ConioSub.cpp"
+	"Util.cpp"
+	"Cobra.cpp"
+	"Regras.cpp"
+	"Tela.cpp"
+	"Sobre.cpp"
+	"Menu.cpp"
+
+1395789232 c:\users\kelvin\documents\desenvolvimento\c++\snake\coniosub.cpp
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+
+1398587036 c:\users\kelvin\documents\desenvolvimento\c++\snake\util.cpp
+
+1396884338 c:\users\kelvin\documents\desenvolvimento\c++\snake\cobra.cpp
+
+1398490371 c:\users\kelvin\documents\desenvolvimento\c++\snake\regras.cpp
+
+1397145036 c:\users\kelvin\documents\desenvolvimento\c++\snake\tela.cpp
+
+1398585318 c:\users\kelvin\documents\desenvolvimento\c++\snake\file.cpp
+
+1398585824 c:\users\kelvin\documents\desenvolvimento\c++\snake\ranking.cpp
+
+1398489700 c:\users\kelvin\documents\desenvolvimento\c++\snake\sobre.cpp
+
+1398590834 c:\users\kelvin\documents\desenvolvimento\c++\snake\menu.cpp
+
